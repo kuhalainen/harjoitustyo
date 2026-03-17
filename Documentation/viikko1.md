@@ -3,9 +3,11 @@
 Käytännössä viikon 1 aikana tutustuin mahdollisiin aiheisiin joita kurssin materiaalista löytyi, valitsin niistä minulle kiinnostavimman. Pääasiassa aika siis meni eri aiheiden taustatietovaatimuksiin tutustumiseen.
 
 **Miten ohjelma on edistynyt?**
+
 Itse ohjelman koodia en ole vielä viikon 1 aikana kirjoittanut lainkaan.
 
 **Mitä opin tällä viikolla / tänään?**
+
 Tutustuin trie-tietorakenteeseen ja markovin ketjun konseptiin.
 
 **Mikä jäi epäselväksi tai tuottanut vaikeuksia?**
